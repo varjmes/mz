@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# Unneeded cypress files that install themselves every time you run the tests
+# locally
+cypress/plugins/
+cypress/fixtures/
